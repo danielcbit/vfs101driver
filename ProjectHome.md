@@ -1,0 +1,1 @@
+We are attempting to write a fprint driver for the VFS101.  The fingerprint sensor is commonly found in HP computers.
